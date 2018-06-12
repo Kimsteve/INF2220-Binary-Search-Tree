@@ -1,0 +1,66 @@
+1x-193:Desktop KIMOGOL$ javac Oblig1.java
+1x-193:Desktop KIMOGOL$ java Oblig1 dictionary.txt
+Enter a word> achiev
+achiev has been misspelled
+Time taken to complete the task   : 2  millisecond
+generated similar words are: [achive, achier, achieve]
+lookups with positive results :  379
+Enter a word> achiese
+achiese has been misspelled
+Time taken to complete the task   : 0  millisecond
+generated similar words are: [achieve, achiest, achinese]
+lookups with positive results :  445
+Enter a word> achievee
+achievee has been misspelled
+Time taken to complete the task   : 1  millisecond
+generated similar words are: [achieved, achiever, achieves, achieve, achieve, achieve]
+lookups with positive results :  513
+Enter a word> ahcieve
+ahcieve has been misspelled
+Time taken to complete the task   : 1  millisecond
+generated similar words are: [achieve]
+lookups with positive results :  445
+Enter a word> q
+Binary Search Tree statistics
+Nodes per depth of the tree
+node  0  is  1
+node  1  is  2
+node  2  is  4
+node  3  is  8
+node  4  is  16
+node  5  is  32
+node  6  is  64
+node  7  is  121
+node  8  is  218
+node  9  is  383
+node  10  is  628
+node  11  is  990
+node  12  is  1513
+node  13  is  2208
+node  14  is  2949
+node  15  is  3889
+node  16  is  4772
+node  17  is  5670
+node  18  is  6251
+node  19  is  6688
+node  20  is  6690
+node  21  is  6448
+node  22  is  5890
+node  23  is  5101
+node  24  is  4244
+node  25  is  3254
+node  26  is  2395
+node  27  is  1789
+node  28  is  1177
+node  29  is  705
+node  30  is  429
+node  31  is  236
+node  32  is  138
+node  33  is  60
+node  34  is  25
+node  35  is  9
+node  36  is  3
+The average depth of all nodes  19
+The height of the Binary Search Tree is  = 36
+alphabetically first word abactinally
+alphabetically last word darndests
